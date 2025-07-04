@@ -15,3 +15,18 @@ Welcome to my personal AI chatbot powered by the **Groq LLM API** and built usin
 
 ## 📁 Project Structure
 
+---
+
+## 🚀 Setup Instructions
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/muhammadali1473/Chatbot_AI.git
+   cd Chatbot_AI
+python -m venv venv
+venv\Scripts\activate  # On Windows
+pip install -r requirements.txt
+_API_KEY=your_actual_groq_api_key_here
+streamlit run app.py
+
+
