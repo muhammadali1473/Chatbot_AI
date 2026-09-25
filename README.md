@@ -10,7 +10,7 @@ Welcome to my personal AI chatbot powered by the **Groq LLM API** and built usin
 - ⚙️ Choose from multiple models (`llama3`, `mixtral`, `gemma`)
 - 🖼️ Beautiful sidebar and interactive chat titles
 - ☁️ Hosted locally or deployable to the cloud
-
+             
 ---
 
 ## 📁 Project Structure
