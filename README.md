@@ -5,7 +5,7 @@ Welcome to my personal AI chatbot powered by the **Groq LLM API** and built usin
 ## 🔥 Features
 
 - 💬 Chat interface with clean, blur-effect design
-- 🧠 Conversational memory using `langchain`
+- 🧠 Conversational memory using `langchain`                          
 - 🔁 Session management and chat history (view saved conversations)            
 - ⚙️ Choose from multiple models (`llama3`, `mixtral`, `gemma`)                             
 - 🖼️ Beautiful sidebar and interactive chat titles
